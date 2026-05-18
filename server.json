@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.eZhing/runik-ai",
+  "description": "Chat-first business management platform. Describe your business and get a complete system with tables, views, and data. 22 industry templates. Works with ChatGPT and Claude.",
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://runikapp.com/mcp"
+    }
+  ]
+}
