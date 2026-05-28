@@ -99,6 +99,16 @@ AI: Created order #5 for Mesa 1, total $20,000 ✓
 - Tool annotations for ChatGPT safety compliance
 - Rate limiting on all endpoints
 
+## Desktop App
+
+Native desktop app for Mac, Windows & Linux — always one click away, no browser needed.
+
+[![Download](https://img.shields.io/badge/Download-Desktop%20App-6366f1)](https://runikapp.com/desktop.html) [![GitHub](https://img.shields.io/badge/Source-runik--desktop-333)](https://github.com/eZhing/runik-desktop)
+
+- **Mac ARM** (Apple Silicon) — available now
+- **Mac Intel** — available now
+- **Windows & Linux** — coming soon
+
 ## Links
 
 - 🌐 **Website:** [runikapp.com](https://runikapp.com)
